@@ -100,7 +100,7 @@ G2L["e"] = Instance.new("UICorner", G2L["d"]);
 -- StarterGui.SylonX.MainUI.TabSection.Home
 G2L["f"] = Instance.new("TextButton", G2L["d"]);
 G2L["f"]["TextXAlignment"] = Enum.TextXAlignment.Left;
-G2L["f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+G2L["f"]["BackgroundColor3"] = Color3.fromRGB(18, 18, 18);
 G2L["f"]["TextSize"] = 21;
 G2L["f"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 G2L["f"]["TextColor3"] = Color3.fromRGB(251, 251, 251);
